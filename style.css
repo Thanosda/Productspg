@@ -1,0 +1,28 @@
+div{
+     background-color: black;
+        height: 100px; 
+        width: 1180px; 
+        padding: 5px;
+        margin-top: 20px;
+        margin-left: 20px;
+
+}
+
+.one{
+    background-color: gray;
+    margin-top: 50px;
+    height: 200px;
+    border-color: blanchedalmond;
+    border-style: solid;
+    border-width: 20px;
+    
+    
+
+
+
+}
+h1{
+    color: white;
+    text-align: center;
+
+}
