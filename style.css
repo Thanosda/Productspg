@@ -7,7 +7,7 @@ nav{
 
 }
 
-h1{
+.one{
   margin-left: 59px;
   display: inline-block;
   margin-right:60%;
@@ -37,7 +37,7 @@ width: 900px;
 border-radius: 20px;
 text-align: center;
 margin-left:180px;
-margin-top: 20px;
+margin-top: 60px;
 
  }
 .product{
@@ -82,4 +82,23 @@ button{
     border: none;
     cursor: pointer;
     margin-left: 55px;
+}
+
+button:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.four{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.about{
+  background-color: darkgray;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  
 }
