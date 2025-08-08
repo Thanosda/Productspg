@@ -1,0 +1,42 @@
+nav{
+    background-color: black;
+    color :white;
+    display:block;
+    border-radius: 30px;
+    margin-top: 20px;
+
+}
+
+h1{
+  margin-left: 59px;
+  display: inline-block;
+  margin-right:60%;
+}
+
+
+ul{
+ 
+ display: inline-block;
+}
+
+ li{
+color:whitesmoke;
+display: inline;
+
+ }
+ li:hover{
+    color:grey;
+    cursor:move;
+ }
+
+
+
+ input{
+height: 30px;
+width: 900px;
+border-radius: 20px;
+text-align: center;
+margin-left:180px;
+margin-top: 20px;
+
+ }
